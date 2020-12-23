@@ -1,0 +1,11 @@
+<h1>NetBeans</h1>
+<p>NetBeans is an integrated development environment (IDE) for Java. NetBeans allows applications to be developed from a set of modular software components called modules. NetBeans runs on Windows, macOS, Linux and Solaris. In addition to Java development, it has extensions for other languages like PHP, C, C++, HTML5, and JavaScript. Applications based on NetBeans, including the NetBeans IDE, can be extended by third party developers.</p>
+<p>NetBeans began in 1996 as Xelfi (word play on Delphi), a Java IDE student project under the guidance of the Faculty of Mathematics and Physics at Charles University in Prague. In 1997, Roman Staněk formed a company around the project and produced commercial versions of the NetBeans IDE until it was bought by Sun Microsystems in 1999. Sun open-sourced the NetBeans IDE in June of the following year. Since then, the NetBeans community has continued to grow. In 2010, Sun (and thus NetBeans) was acquired by Oracle Corporation. Under Oracle, NetBeans competed with JDeveloper, a freeware IDE that has historically been a product of the company. In September 2016, Oracle submitted a proposal to donate the NetBeans project to the Apache Software Foundation, stating that it was "opening up the NetBeans governance model to give NetBeans constituents a greater voice in the project's direction and future success through the upcoming release of Java 9 and NetBeans 9 and beyond". The move was endorsed by Java creator James Gosling. The project entered the Apache Incubator in October 2016.</p><a href="https://en.wikipedia.org/wiki/NetBeans">Article From Wikipedia</a>
+
+———————————————————————————————————————————————————————————
+<p>NOTE: The NetBeans app is located in the bin folder, once you install the file below. Also make sure to open the "netbeans.exe", not the "netbeans-64.exe"</p>
+<p>ANOTHER NOTE: Make sure to extract all files or else the application will not work propertly.</p>
+<img src="https://user-images.githubusercontent.com/75645436/102938794-ff9b5180-447a-11eb-8b7c-e7269ab4acd4.png">
+<a href="https://download1351.mediafire.com/u98647qcgztg/ddynzbiwqwntbc2/NetBeans.zip">Download NetBeans from here</a>
+<br>
+<a href="https://www.softpedia.com/">[Credits to SoftPedia]</a>

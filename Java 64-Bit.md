@@ -1,7 +1,7 @@
 <h1>Java 64-Bit</h1>
 <p6>This is portable <a href="https://www.java.com/en/">Java®</a>. <p>This page will help you download Java on school computers without admin. This could be used for many things, including minecraft.<p>
 <h2>How to install:</h2>
-<p>STEP 1: Download Java 64-Bit <a href="https://www.mediafire.com/file/qzwozc4urslzm10/Java.zip/file">here.</a>
+<p>STEP 1: Download Java 64-Bit <a href="https://github.com/PortableStuff/PortableStuff.GITHUB.IO/releases/download/jre_x64/Java.zip">here.</a>
 <p>STEP 2: Extract the files.</p>
 <p>BOOM. You're done.</p>
 <h2>How to allocate ram to minecraft launchers (Tlauncher, SKLauncher, TitanLauncher, etc.)</h2>
